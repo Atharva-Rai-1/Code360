@@ -1,7 +1,7 @@
 {
   "codingninjas": {
-    "solved": 1,
-    "easy": 1,
+    "solved": 2,
+    "easy": 2,
     "medium": 0,
     "hard": 0,
     "unknown": 0,
@@ -12,6 +12,13 @@
         "language": "C++",
         "submissionId": 292756270,
         "date": "2026-10-20T11:58:22.380Z"
+      },
+      "find-unique_625159": {
+        "difficulty": "Easy",
+        "category": "easy",
+        "language": "C++",
+        "submissionId": 292756610,
+        "date": "2026-10-20T12:04:34.246Z"
       }
     }
   }
