@@ -1,7 +1,7 @@
 {
   "codingninjas": {
-    "solved": 3,
-    "easy": 3,
+    "solved": 4,
+    "easy": 4,
     "medium": 0,
     "hard": 0,
     "unknown": 0,
@@ -26,6 +26,13 @@
         "language": "C++",
         "submissionId": 292758528,
         "date": "2026-10-20T12:40:38.942Z"
+      },
+      "intersection-of-2-arrays_1082149": {
+        "difficulty": "Easy",
+        "category": "easy",
+        "language": "C++",
+        "submissionId": 292758656,
+        "date": "2026-10-20T12:42:24.052Z"
       }
     }
   }
