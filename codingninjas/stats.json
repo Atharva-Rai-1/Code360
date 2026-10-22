@@ -1,8 +1,8 @@
 {
   "codingninjas": {
-    "solved": 5,
+    "solved": 6,
     "easy": 4,
-    "medium": 1,
+    "medium": 2,
     "hard": 0,
     "unknown": 0,
     "shas": {
@@ -40,6 +40,13 @@
         "language": "C++",
         "submissionId": 292832922,
         "date": "2026-10-21T12:55:59.303Z"
+      },
+      "ayush-gives-ninjatest_1097574": {
+        "difficulty": "Medium",
+        "category": "medium",
+        "language": "C++",
+        "submissionId": 292904048,
+        "date": "2026-10-22T12:39:49.334Z"
       }
     }
   }
