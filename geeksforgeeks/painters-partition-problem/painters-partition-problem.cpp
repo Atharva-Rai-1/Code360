@@ -1,21 +1,21 @@
 class Solution {
     bool isPossible(vector<int>& arr,int k, int mid) { 
-        int studentCount = 1; 
-        int pageSum = 0; 
+        int painterCount = 1; 
+        int timeSum = 0; 
 
         for(int i = 0; i < arr.size(); i++) { 
             if (arr[i] > mid) {
                 return false;
             }
 
-            if (pageSum + arr[i] <= mid) { 
-                pageSum += arr[i]; 
+            if (timeSum + arr[i] <= mid) { 
+                timeSum += arr[i]; 
             } else { 
-                studentCount++; 
-                if (studentCount > k) { 
+                painterCount++; 
+                if (painterCount > k) { 
                     return false; 
                 } 
-                pageSum = arr[i]; 
+                timeSum = arr[i]; 
             } 
         } 
         return true; 
