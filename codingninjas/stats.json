@@ -1,8 +1,8 @@
 {
   "codingninjas": {
-    "solved": 7,
+    "solved": 8,
     "easy": 4,
-    "medium": 3,
+    "medium": 4,
     "hard": 0,
     "unknown": 0,
     "shas": {
@@ -54,6 +54,13 @@
         "language": "C++",
         "submissionId": 292976927,
         "date": "2026-10-23T12:13:12.320Z"
+      },
+      "aggressive-cows_1082559": {
+        "difficulty": "Medium",
+        "category": "medium",
+        "language": "C++",
+        "submissionId": 292979945,
+        "date": "2026-10-23T13:02:56.011Z"
       }
     }
   }
