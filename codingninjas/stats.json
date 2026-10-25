@@ -1,8 +1,8 @@
 {
   "codingninjas": {
-    "solved": 9,
+    "solved": 10,
     "easy": 5,
-    "medium": 4,
+    "medium": 5,
     "hard": 0,
     "unknown": 0,
     "shas": {
@@ -68,6 +68,13 @@
         "language": "C++",
         "submissionId": 293073746,
         "date": "2026-10-24T15:42:35.490Z"
+      },
+      "minimise-max-distance_7541449": {
+        "difficulty": "Medium",
+        "category": "medium",
+        "language": "C++",
+        "submissionId": 293125679,
+        "date": "2026-10-25T11:11:40.744Z"
       }
     }
   }
