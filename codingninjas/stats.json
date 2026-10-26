@@ -1,7 +1,7 @@
 {
   "codingninjas": {
-    "solved": 10,
-    "easy": 5,
+    "solved": 11,
+    "easy": 6,
     "medium": 5,
     "hard": 0,
     "unknown": 0,
@@ -75,6 +75,13 @@
         "language": "C++",
         "submissionId": 293125679,
         "date": "2026-10-25T11:11:40.744Z"
+      },
+      "find-area-of-rectangle_1112574": {
+        "difficulty": "Easy",
+        "category": "easy",
+        "language": "C++",
+        "submissionId": 293213084,
+        "date": "2026-10-26T11:52:59.178Z"
       }
     }
   }
