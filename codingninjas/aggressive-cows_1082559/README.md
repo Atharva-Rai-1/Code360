@@ -8,7 +8,6 @@
 | **Problem Link** | [Code360](https://www.naukri.com/code360/problems/aggressive-cows_1082559) |
 
 ## Topics
-_No topics available_
 
 ---
 
