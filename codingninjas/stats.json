@@ -1,8 +1,8 @@
 {
   "codingninjas": {
-    "solved": 18,
+    "solved": 19,
     "easy": 12,
-    "medium": 6,
+    "medium": 7,
     "hard": 0,
     "unknown": 0,
     "shas": {
@@ -131,6 +131,13 @@
         "language": "C++",
         "submissionId": 293787460,
         "date": "2026-11-03T12:09:24.293Z"
+      },
+      "nth-fibonacci-number_1115780": {
+        "difficulty": "Medium",
+        "category": "medium",
+        "language": "C++",
+        "submissionId": 293856918,
+        "date": "2026-11-04T12:08:49.540Z"
       }
     }
   }
