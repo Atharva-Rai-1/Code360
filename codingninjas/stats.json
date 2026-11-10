@@ -1,7 +1,7 @@
 {
   "codingninjas": {
-    "solved": 22,
-    "easy": 15,
+    "solved": 23,
+    "easy": 16,
     "medium": 7,
     "hard": 0,
     "unknown": 0,
@@ -159,6 +159,13 @@
         "language": "C++",
         "submissionId": 294092958,
         "date": "2026-11-09T10:03:51.601Z"
+      },
+      "print-array-sum_625032": {
+        "difficulty": "Easy",
+        "category": "easy",
+        "language": "Java",
+        "submissionId": 294140918,
+        "date": "2026-11-10T08:55:18.085Z"
       }
     }
   }
