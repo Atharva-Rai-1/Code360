@@ -1,8 +1,8 @@
 {
   "codingninjas": {
-    "solved": 23,
+    "solved": 24,
     "easy": 16,
-    "medium": 7,
+    "medium": 8,
     "hard": 0,
     "unknown": 0,
     "shas": {
@@ -166,6 +166,13 @@
         "language": "Java",
         "submissionId": 294140937,
         "date": "2026-11-10T08:55:18.085Z"
+      },
+      "min-heap_4691801": {
+        "difficulty": "Medium",
+        "category": "medium",
+        "language": "Java",
+        "submissionId": 294267981,
+        "date": "2026-11-12T09:45:38.272Z"
       }
     }
   }
