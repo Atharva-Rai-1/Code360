@@ -3,7 +3,7 @@
 | | |
 |---|---|
 | **Difficulty** | Medium |
-| **Language** | Java |
+| **Language** | C++ |
 | **Verdict** | Accepted |
 | **Problem Link** | [Code360](https://www.naukri.com/code360/problems/min-heap_4691801) |
 
