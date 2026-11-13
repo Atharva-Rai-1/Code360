@@ -1,7 +1,7 @@
 {
   "codingninjas": {
-    "solved": 24,
-    "easy": 16,
+    "solved": 25,
+    "easy": 17,
     "medium": 8,
     "hard": 0,
     "unknown": 0,
@@ -173,6 +173,13 @@
         "language": "C++",
         "submissionId": 294272530,
         "date": "2026-11-12T10:57:04.757Z"
+      },
+      "lca-of-three-nodes_794944": {
+        "difficulty": "Easy",
+        "category": "easy",
+        "language": "C++",
+        "submissionId": 294314187,
+        "date": "2026-11-13T05:23:07.530Z"
       }
     }
   }
